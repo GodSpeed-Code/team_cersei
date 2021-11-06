@@ -1,0 +1,96 @@
+/*galaxy fold*/
+/* @media  only screen and (max-width: 280px) {} */
+
+/*small phones*/
+/* @media only screen and (min-width: 320px){
+    
+    /*Body alignment*/
+    /* body{
+        width: 90%;
+        height: 95vh;
+    } */
+
+
+/*normal phones*/
+/* @media  only screen and (min-width: 400px) {
+    /*Body alignment*/
+    /* body{
+        width: 100%;
+        height: 95vh;
+    }   
+} */
+
+/*tablet screen*/
+/* @media only screen and (min-width: 768px) {
+
+    /*Body alignment*/
+    /* body {
+        width: 90%;
+        height: 85vh;
+    }
+    end of 768px screen 
+} */
+
+/* small-laptop resolution*/
+/* @media  only screen and (min-width: 1024px) { */
+    /*Body alignment*/
+    /* body{
+        width: 60%;
+        height: 95vh;
+    }      
+}*/
+
+/* bigboys laptop resolution*/
+/* @media  only screen and (min-width: 1440px) { */
+    /*Body alignment*/
+    /* body{
+        width: 35%;
+        height: 75vh;
+    }      
+} */
+
+.search-field, .heading, .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container{
+    background: url('../images/bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 60vw;
+    height: 70vh;
+}
+.heading{
+    font-size: 3rem;
+    font-weight: 900;
+    color: #ee4e7b;
+    margin-bottom: 2rem;
+}
+.input-field{
+    width: 90%;
+    font-size: 1.5rem;
+    padding: 1.5%;
+    padding-left: 5%;
+    border-radius: 35px;
+    border: 3px solid #000;
+    outline: none;
+}
+.input-field:focus{
+    border: 3px solid #55a651;
+}
+.search-field{
+    width: 80%;
+    height: 50%;
+    background-color: rgba(233, 232, 232, 0.5);
+}
+img{
+    width: 50%;
+}
+.footer{
+    font-size: 1.2rem;
+    font-weight: 800;
+    margin-top: 5.5rem;
+}
