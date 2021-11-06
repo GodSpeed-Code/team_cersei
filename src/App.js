@@ -1,9 +1,13 @@
-
-import './App.css';
+import Footer from './components/Footer';
+import Search from './components/Search';
+import './styles/App.css';
 
 function App() {
     return (
-        <div></div>
+        <div className='container'>
+            <Search/>
+            <Footer/>
+        </div>
     );
 }
 
