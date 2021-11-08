@@ -2,10 +2,10 @@ import React, {useState} from 'react'
 import bg from '../images/logo.png';
 
 function Search() {
-    const [state, setstate] = useState('');
+    const [state, setState] = useState('');
 
     const updateBlock = (event) => {
-        setstate(event.target.value);
+        setState(event.target.value);
         console.log(event.target.value);
     }
     return (
