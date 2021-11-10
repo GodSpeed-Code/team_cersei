@@ -1,4 +1,21 @@
-### `yarn install` or `npm install` after checking out this project
+### `yarn install` or `npm install` after checking out the project
+
+Active Collaborators:
+DAVID AMANOR SH-IT-0090724
+EJIKE REGINALD OKECHUKWU SH-IT-0013184
+GRACE ADELAKA SH-IT-0078836
+NWAFOR EMMANUEL TOCHUKWU SH-IT-004915
+ADEWUMI DAVID SH-IT-0016496
+
+Passive Collaborators:
+TUNJI OLOGUN SH-IT-0097550
+IKECHI BENJAMIN SH-IT-0017815
+
+
+Non-active Members:
+EMMANUEL CHINONSO JEMENI SH-IT-0012808
+OKEZIE ESTHER GLORY SH-IT-0088051
+UGWU ABRAHAM CHIDOZIE SH-IT-0089133
 
 
 
@@ -9,12 +26,6 @@
 
 
 
-
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -28,10 +39,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn build`
 
@@ -75,10 +82,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+nt
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `yarn build` fails to minify
+
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
