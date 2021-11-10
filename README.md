@@ -1,18 +1,18 @@
 ### `yarn install` or `npm install` after checking out the project
 
-Active Collaborators:
+### `Active Collaborators`:
 DAVID AMANOR SH-IT-0090724
 EJIKE REGINALD OKECHUKWU SH-IT-0013184
 GRACE ADELAKA SH-IT-0078836
 NWAFOR EMMANUEL TOCHUKWU SH-IT-004915
 ADEWUMI DAVID SH-IT-0016496
 
-Passive Collaborators:
+### `Passive Collaborators`:
 TUNJI OLOGUN SH-IT-0097550
 IKECHI BENJAMIN SH-IT-0017815
 
 
-Non-active Members:
+### `Non-active Members`:
 EMMANUEL CHINONSO JEMENI SH-IT-0012808
 OKEZIE ESTHER GLORY SH-IT-0088051
 UGWU ABRAHAM CHIDOZIE SH-IT-0089133
